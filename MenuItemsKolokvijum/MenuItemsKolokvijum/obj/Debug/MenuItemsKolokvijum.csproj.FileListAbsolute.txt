@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\MenuItemsKolokvijum.exe.config
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\MenuItemsKolokvijum.exe
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\MenuItemsKolokvijum.pdb
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\BusinessLayer.dll
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\DataLayer.dll
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\BusinessLayer.pdb
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\bin\Debug\DataLayer.pdb
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.Form1.resources
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.Properties.Resources.resources
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.csproj.CopyComplete
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.exe
+C:\Users\Dell\Downloads\probasourcetree\MenuItemsKolokvijum\MenuItemsKolokvijum\obj\Debug\MenuItemsKolokvijum.pdb
